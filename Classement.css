@@ -1,0 +1,32 @@
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+li{
+    text-align: center;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+.exo1{
+    background-color: blueviolet;
+}
+.exo2{
+    background-color: coral;
+}
+.exo3{
+    background-color: deeppink;
+}
+.exo4{
+    background-color: fuchsia;
+}
+.exo5
+{
+    background-color: cornflowerblue;
+}
